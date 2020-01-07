@@ -1,4 +1,4 @@
-wirwerdenallesterben.ch
+http://wirwerdenallesterben.ch
 
 
 https://stackoverflow.com/questions/17341122/link-and-execute-external-javascript-file-hosted-on-github
